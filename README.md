@@ -1,4 +1,6 @@
-# 1st project in Traversy/Udemy Modern HTML &amp; CSS Course
+# 1st project in Traversy Modern HTML &amp; CSS Course
+
+## Basic HTMl design using floats
 
 ### Learnings: 
 
