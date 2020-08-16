@@ -1,6 +1,6 @@
 # 1st project in Traversy Modern HTML &amp; CSS Course
 
-## Basic HTMl design using floats
+## Basic HTML design using floats
 
 ### Learnings: 
 
