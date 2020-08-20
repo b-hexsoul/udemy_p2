@@ -1,6 +1,7 @@
 # 1st project in Traversy Modern HTML &amp; CSS Course
 
-## Basic HTML design using floats
+## Overview:
+Basic HTML/CSS project using floats. No grid or flexbox. 
 
 ### Learnings: 
 
